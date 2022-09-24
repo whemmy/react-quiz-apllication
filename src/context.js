@@ -7,6 +7,11 @@ const table = {
   politics: 24,
   mathematics: 19,
   computer: 18,
+  'General Knowledge': 9,
+  'Science & Nature': 17,
+  Music: 12,
+  Films: 11,
+  Books: 10,
 }
 
 const API_ENDPOINT = 'https://opentdb.com/api.php?'

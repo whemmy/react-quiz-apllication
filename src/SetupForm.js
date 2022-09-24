@@ -33,10 +33,15 @@ const SetupForm = () => {
               onChange={handleChange}
             >
               <option value="sports">sports</option>
+              <option value="General Knowledge">General Knowledge</option>
               <option value="history">history</option>
+              <option value="Science & Nature">Science & Nature</option>
               <option value="politics">politics</option>
               <option value="mathematics">mathematics</option>
               <option value="computer">computer</option>
+              <option value="music">music</option>
+              <option value="Films">Films</option>
+              <option value="Books">Books</option>
             </select>
           </div>
           {/* difficulty */}
